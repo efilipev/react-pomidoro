@@ -1,3 +1,22 @@
+## Role: ReactJs Frontend Developer
+June 2020
+
+## Project Description:
+
+Pomidoro application. Key features:
+
+- Start timer
+- Stop timer
+- Reset timer
+- Create new timer
+- Increase / Decrease minutes on every timer instance
+
+## Responsibilities:
+  - Developed project on it's own
+  
+## Technologies: 
+  - JavaScript, ReactJs, RxJs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
